@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lakha-X-Pixel AI Photo Restoration",
+  "description": "A premium AI-powered photo restoration tool with a sleek futuristic UI, featuring real-time before/after comparison and high-quality image processing simulations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
